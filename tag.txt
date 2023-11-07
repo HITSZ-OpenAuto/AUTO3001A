@@ -1,0 +1,3 @@
+category: 必修
+semester: 第三学年秋季
+name: 自动控制理论A
