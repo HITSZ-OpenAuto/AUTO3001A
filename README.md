@@ -5,10 +5,9 @@
   <img alt="考试课" src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" align="left">
   <span> </span>
   <img alt="学分 4.5" src="https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4.5-moccasin" align="left">
-  <br>
 </p>
 </div>
-
+<br>
 <div align="left">
 <p align="left">
   <img alt="成绩构成(21级)" src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(21%E7%BA%A7)-gold" align="left">
@@ -22,9 +21,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/%E7%A1%AC%E4%BB%B6%E5%AE%9E%E9%AA%8C-8%25-wheat" align="left">
   <span> </span>
   <img alt="Static Badge" src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat" align="left">
-  <br>
 </p>
 </div>
+<br>
 
 ## 授课教师
 
