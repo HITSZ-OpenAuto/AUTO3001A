@@ -1,4 +1,4 @@
-# AUTO3001A - 自动控制理论A
+# AUTO3001A - 自动控制理论 A
 
 <div align="left">
 <figure>
