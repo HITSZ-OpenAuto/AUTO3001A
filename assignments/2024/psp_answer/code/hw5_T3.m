@@ -11,11 +11,11 @@ sys2 = tf(1, [0.433 1.271 1]);
 [y2, t2] = step(sys2, t); % 计算单位阶跃响应
 
 % 计算性能指标
-overshoot1 = (max(y1) - 1) * 100; % 超调量（ %）
+overshoot1 = (max(y1) - 1) * 100; % 超调量 (%)
 settling_time1 = stepinfo(sys1).SettlingTime; % 稳定时间
 rise_time1 = stepinfo(sys1).RiseTime; % 上升时间
 
-overshoot2 = (max(y2) - 1) * 100; % 超调量（ %）
+overshoot2 = (max(y2) - 1) * 100; % 超调量 (%)
 settling_time2 = stepinfo(sys2).SettlingTime; % 稳定时间
 rise_time2 = stepinfo(sys2).RiseTime; % 上升时间
 
