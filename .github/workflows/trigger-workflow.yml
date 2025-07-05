@@ -21,6 +21,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -46,12 +47,24 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Actions"
           
+          # Get the current branch name
+          BRANCH_NAME="${{ github.head_ref || github.ref_name }}"
+          echo "Current branch: $BRANCH_NAME"
+          
+          # Check if we're in detached HEAD and switch to the current branch
+          if git symbolic-ref -q HEAD >/dev/null; then
+            echo "Already on a branch"
+          else
+            echo "In detached HEAD, switching to branch: $BRANCH_NAME"
+            git checkout "$BRANCH_NAME"
+          fi
+          
           # Add changes if any exist
           if [ -n "$(git status --porcelain)" ]; then
             git add .hoa/worktree.json
             git commit -m "Update: update worktree info [skip ci]"
-            git push
-            echo "Worktree info updated and committed"
+            git push origin "$BRANCH_NAME"
+            echo "Worktree info updated and committed to $BRANCH_NAME"
           else
             echo "No changes to commit"
           fi
