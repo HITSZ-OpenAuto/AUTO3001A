@@ -1,0 +1,722 @@
+{
+  ".gitattributes": {
+    "size": 49,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2663,
+    "time": 1751709857,
+    "hash": "009317e0abd4048219d1972766d69a12dad1c9d2"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086084,
+    "hash": "c90f9ff9284bfb287f4e08e40a5bfee82ef0e81c"
+  },
+  "README.md": {
+    "size": 8302,
+    "time": 1751685430,
+    "hash": "badaa56141e8416ffc71df4893296113a98188fa"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737539897,
+    "hash": "f85043d8873456356fb97c496effdf387878babd"
+  },
+  "assignments/2019/自控理论A—作业10及答案.pdf": {
+    "size": 2401257,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业11及答案.pdf": {
+    "size": 992222,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业12及答案(1).pdf": {
+    "size": 1779201,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业12及答案(2).pdf": {
+    "size": 2402898,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业1及答案.pdf": {
+    "size": 581231,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业2及答案.pdf": {
+    "size": 1338095,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业3及答案.pdf": {
+    "size": 2187981,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业4及答案.pdf": {
+    "size": 288301,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业5及答案.pdf": {
+    "size": 820598,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业6及答案.pdf": {
+    "size": 1543561,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业7及答案(1).pdf": {
+    "size": 2843851,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业7及答案(2).pdf": {
+    "size": 587128,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业8及答案.pdf": {
+    "size": 2021504,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业9及答案(1).pdf": {
+    "size": 1736898,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2019/自控理论A—作业9及答案(2).pdf": {
+    "size": 451215,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2022_FWI_Version/1/自动控制原理A第一次作业答案.pdf": {
+    "size": 571391,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/1/自控作业-1.pdf": {
+    "size": 280247,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/10/自动控制原理A第十次作业答案.pdf": {
+    "size": 243203,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/10/自控理论-10.pdf": {
+    "size": 155479,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/11/自动控制原理A第十一次作业答案.pdf": {
+    "size": 17518879,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/11/自控理论-11.pdf": {
+    "size": 342810,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/2/自动控制原理A第二次作业答案.pdf": {
+    "size": 422726,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/2/自控作业-2.pdf": {
+    "size": 271662,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/3/自动控制原理A第三次作业答案.pdf": {
+    "size": 568551,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/3/自控作业-3.pdf": {
+    "size": 202083,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/4/自动控制原理A第四次作业答案.pdf": {
+    "size": 547840,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/4/自控作业-4.pdf": {
+    "size": 457086,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/5/自动控制原理A第五次作业答案.pdf": {
+    "size": 552956,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/5/自控作业-5.pdf": {
+    "size": 190629,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/6/自动控制原理A第六次作业答案.pdf": {
+    "size": 337248,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/6/自控作业-6.pdf": {
+    "size": 176273,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/7/自动控制原理A第七次作业答案.pdf": {
+    "size": 347676,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/7/自控作业-7.pdf": {
+    "size": 174518,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/8/自动控制原理A第八次作业答案.pdf": {
+    "size": 568619,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/8/自控作业-8.pdf": {
+    "size": 330174,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/9/自动控制原理A第九次作业答案.pdf": {
+    "size": 541476,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/9/自控作业-9.pdf": {
+    "size": 303044,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/标准答案/自控原理A作业1-6答案.pdf": {
+    "size": 275129,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2022_FWI_Version/标准答案/自控理论A作业11答案.pdf": {
+    "size": 1828683,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "assignments/2024/homework/README.md": {
+    "size": 86,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业1.pdf": {
+    "size": 275228,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业10.pdf": {
+    "size": 447659,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业11.pdf": {
+    "size": 292454,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业12.pdf": {
+    "size": 595872,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业2.pdf": {
+    "size": 503518,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业3.pdf": {
+    "size": 352238,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业4.pdf": {
+    "size": 277048,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业5.pdf": {
+    "size": 420972,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业6.pdf": {
+    "size": 305008,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业8.pdf": {
+    "size": 358482,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/homework/自控理论A作业9.pdf": {
+    "size": 608735,
+    "time": 1736784957,
+    "hash": "2daf317576a456f9da22d7def72686b6a67bd8bc"
+  },
+  "assignments/2024/psp_answer/README.md": {
+    "size": 287,
+    "time": 1737115016,
+    "hash": "0558354dee55cdb02bcdbde2f4f81896f1e529de"
+  },
+  "assignments/2024/psp_answer/code/hw5_T3.m": {
+    "size": 1515,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2024/psp_answer/code/hw5_T4.m": {
+    "size": 1536,
+    "time": 1737115016,
+    "hash": "0558354dee55cdb02bcdbde2f4f81896f1e529de"
+  },
+  "assignments/2024/psp_answer/自控理论A作业1-psp.pdf": {
+    "size": 1803947,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2024/psp_answer/自控理论A作业10-psp.pdf": {
+    "size": 2966555,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2024/psp_answer/自控理论A作业11-psp.pdf": {
+    "size": 1168249,
+    "time": 1737115016,
+    "hash": "0558354dee55cdb02bcdbde2f4f81896f1e529de"
+  },
+  "assignments/2024/psp_answer/自控理论A作业12-psp.pdf": {
+    "size": 2818317,
+    "time": 1737115016,
+    "hash": "0558354dee55cdb02bcdbde2f4f81896f1e529de"
+  },
+  "assignments/2024/psp_answer/自控理论A作业2-psp.pdf": {
+    "size": 1709231,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2024/psp_answer/自控理论A作业3-psp.pdf": {
+    "size": 2011788,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2024/psp_answer/自控理论A作业4-psp.pdf": {
+    "size": 917242,
+    "time": 1737115016,
+    "hash": "0558354dee55cdb02bcdbde2f4f81896f1e529de"
+  },
+  "assignments/2024/psp_answer/自控理论A作业5-psp.pdf": {
+    "size": 2276328,
+    "time": 1737115016,
+    "hash": "0558354dee55cdb02bcdbde2f4f81896f1e529de"
+  },
+  "assignments/2024/psp_answer/自控理论A作业6-psp.pdf": {
+    "size": 2324053,
+    "time": 1737115016,
+    "hash": "0558354dee55cdb02bcdbde2f4f81896f1e529de"
+  },
+  "assignments/2024/psp_answer/自控理论A作业8-psp.pdf": {
+    "size": 2475231,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "assignments/2024/psp_answer/自控理论A作业9-psp.pdf": {
+    "size": 1862882,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737539897,
+    "hash": "f85043d8873456356fb97c496effdf387878babd"
+  },
+  "exams/本部/2019_本部试题/哈工大2019自控原理C试题与答案.pdf": {
+    "size": 772770,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/本部/2019_本部试题/详解-psp/README.md": {
+    "size": 311,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/本部/2019_本部试题/详解-psp/哈工大2019自控原理C试题与答案(含批注).pdf": {
+    "size": 1164819,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/本部/2022以前_本部试题合集/[网盘计划]自动控制原理.pdf": {
+    "size": 27013303,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/本部/2022以前_本部试题合集/详解-psp/[网盘计划]自动控制原理-10-18.pdf": {
+    "size": 5613221,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/本部/2022以前_本部试题合集/详解-psp/[网盘计划]自动控制原理-19-24.pdf": {
+    "size": 2901861,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/本部/2022以前_本部试题合集/详解-psp/[网盘计划]自动控制原理-3-9.pdf": {
+    "size": 3104750,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/本部/2022以前_本部试题合集/详解-psp/[网盘计划]自动控制原理-61-67.pdf": {
+    "size": 1049359,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/深圳/2019/2019秋自控理论A期中考试答案.pdf": {
+    "size": 478853,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/深圳/2019/2019秋自控理论A期末考试A试题.pdf": {
+    "size": 539930,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/深圳/2019/详解-psp/2019秋自控理论A期中考试答案(含批注).pdf": {
+    "size": 1156787,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/深圳/2019/详解-psp/2019秋自控理论A期末考试A试题解答.pdf": {
+    "size": 2735107,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/深圳/2023自动控制原理A试题考点回忆版.pdf": {
+    "size": 101227,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/深圳/2024/2024秋自控理论A期末（参考答案v2.0版）.pdf": {
+    "size": 11582911,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/深圳/2024/2024秋自控理论A期末（回忆v2.1版）.pdf": {
+    "size": 1344306,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1737539897,
+    "hash": "f85043d8873456356fb97c496effdf387878babd"
+  },
+  "labs/2021_lmh(仅实物实验)/实验1报告.pdf": {
+    "size": 14241440,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2021_lmh(仅实物实验)/实验2 系统的稳定性分析(连续+离散)实验报告2020.pdf": {
+    "size": 8203200,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2021_lmh(仅实物实验)/实验3 线性系统的根轨迹分析实验报告2020.pdf": {
+    "size": 7899814,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2021_lmh(仅实物实验)/实验4 系统频域特性测试与分析实验报告更正版.pdf": {
+    "size": 4200490,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2021_lym(仅上机实验)/README.md": {
+    "size": 91,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2021_lym(仅上机实验)/第一次上机报告-刘宇明.docx": {
+    "size": 347445,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2021_lym(仅上机实验)/自控上机2.docx": {
+    "size": 1582010,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_FWI/自控A上机1报告.pdf": {
+    "size": 836041,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_FWI/自控A上机2报告.pdf": {
+    "size": 1972279,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机1/SecondOrder.m": {
+    "size": 162,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机1/first_order.slx": {
+    "size": 19173,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机1/第一次上机.docx": {
+    "size": 605000,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机1/自控A上机1.一二阶系统时域分析.docx": {
+    "size": 8894159,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机2/ex1.m": {
+    "size": 156,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机2/ex2.m": {
+    "size": 188,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机2/rlocus.m": {
+    "size": 171,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机2/testbode.m": {
+    "size": 119,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机2/testnyquist.m": {
+    "size": 109,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机2/图片.zip": {
+    "size": 271534,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机2/自控A上机2.一根轨迹分析和Bode图分析.pdf": {
+    "size": 2293184,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/上机2/自控A上机2.报告.docx": {
+    "size": 1445120,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验1/图片.zip": {
+    "size": 170510,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验1/实验1 典型系统的时域响应实验报告2022.docx": {
+    "size": 513727,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验1/实验1 典型系统的时域响应实验指导书2022.docx": {
+    "size": 4010157,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验2/图片.zip": {
+    "size": 109848,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验2/实验2 系统的稳定性分析(连续+离散)实验报告2022.docx": {
+    "size": 518469,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验2/实验2 系统的稳定性分析(连续+离散)实验指导书2022.pdf": {
+    "size": 5359880,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验3/图片.zip": {
+    "size": 247664,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验3/实验3 线性系统的根轨迹分析实验报告2022.docx": {
+    "size": 733163,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验3/实验3 线性系统的根轨迹分析实验指导书.pdf": {
+    "size": 1170383,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验3/实验3：驱动器速度模式修改方法.pdf": {
+    "size": 516423,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验4/实验4 系统频域特性测试与分析.pdf": {
+    "size": 1052086,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2022_Tintin/实验4/实验4 系统频域特性测试与分析实验报告2022.docx": {
+    "size": 414457,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "labs/2024_psp/README.md": {
+    "size": 136,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/上机实验/上机一/lab1.m": {
+    "size": 6672,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/上机实验/上机一/lab1.slx": {
+    "size": 83246,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/上机实验/上机一/上机1 一二阶系统时域分析-psp.docx": {
+    "size": 1813855,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/上机实验/上机二/lab2_1.m": {
+    "size": 2164,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/上机实验/上机二/lab2_2.m": {
+    "size": 5965,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/上机实验/上机二/上机2 根轨迹分析和Bode图分析-psp.docx": {
+    "size": 4808986,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/实物实验/lab4_analyse_data.py": {
+    "size": 2771,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/实物实验/实验1 典型系统的时域响应实验-psp.docx": {
+    "size": 2101280,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/实物实验/实验2 系统的稳定性分析(连续+离散)-psp.docx": {
+    "size": 580800,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/实物实验/实验3 线性系统的根轨迹分析-psp.docx": {
+    "size": 881976,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2024_psp/实物实验/实验4 系统频域特性测试与分析-psp.docx": {
+    "size": 409412,
+    "time": 1750817176,
+    "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "labs/2025_Gaster/系统与控制上机1报告-Gaster.pdf": {
+    "size": 1590760,
+    "time": 1751079913,
+    "hash": "f845cc75576a766a710c9ced59d52922f91888e8"
+  },
+  "labs/2025_Gaster/系统与控制上机2报告-Gaster.pdf": {
+    "size": 2542946,
+    "time": 1751079913,
+    "hash": "f845cc75576a766a710c9ced59d52922f91888e8"
+  },
+  "labs/2025_Gaster/系统与控制实验1报告-Gaster.pdf": {
+    "size": 2274309,
+    "time": 1751079913,
+    "hash": "f845cc75576a766a710c9ced59d52922f91888e8"
+  },
+  "labs/2025_Gaster/系统与控制实验2报告（仅连续部分）-Gaster.pdf": {
+    "size": 1507311,
+    "time": 1751079913,
+    "hash": "f845cc75576a766a710c9ced59d52922f91888e8"
+  },
+  "labs/2025_Gaster/系统与控制实验3报告-Gaster.pdf": {
+    "size": 1912187,
+    "time": 1751079913,
+    "hash": "f845cc75576a766a710c9ced59d52922f91888e8"
+  },
+  "labs/2025_Gaster/系统与控制实验4报告-Gaster.pdf": {
+    "size": 1670550,
+    "time": 1751079913,
+    "hash": "f845cc75576a766a710c9ced59d52922f91888e8"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737539897,
+    "hash": "f85043d8873456356fb97c496effdf387878babd"
+  },
+  "notes/2022_自控原理A笔记.pdf": {
+    "size": 78390345,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "notes/2023_Spar Océsel_自控原理.apkg": {
+    "size": 1166802,
+    "time": 1737217316,
+    "hash": "65c3e5c5e2583a8cbe723c44e148710ba1cf5302"
+  },
+  "slides/2023课件合订本.pdf": {
+    "size": 134,
+    "time": 1730247646,
+    "hash": "55848bc646f27a01b78d3154a4beade1188b2247"
+  },
+  "slides/README.md": {
+    "size": 244,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  },
+  "tag.txt": {
+    "size": 71,
+    "time": 1709373854,
+    "hash": "d00a3e6f36efa85cf308692b99b3dbaaf4f602d2"
+  }
+}
