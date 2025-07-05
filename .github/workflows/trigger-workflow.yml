@@ -2,13 +2,60 @@ name: Trigger Workflow in hoa-moe
 
 on:
   push:
-    branches:
-      - main
+    branches: [ "main" ]
+    tags:
+      - "v*"
+
+  pull_request:
+    branches: [ "main" ]
+
+  workflow_dispatch:
 
 jobs:
   trigger:
     runs-on: ubuntu-latest
+    permissions: write-all
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      - name: Download and run collect_worktree_info.py
+        run: |
+          # Download the script
+          curl -o collect_worktree_info.py \
+            https://raw.githubusercontent.com/HITSZ-OpenAuto/repos-management/main/scripts/collect_worktree_info.py
+          
+          # Make it executable and run it
+          chmod +x collect_worktree_info.py
+          python3 collect_worktree_info.py
+          
+          # Clean up the downloaded script
+          rm collect_worktree_info.py
+      
+      - name: Commit worktree info changes
+        run: |
+          # Configure git
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions"
+          
+          # Add changes if any exist
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .hoa/worktree.json
+            git commit -m "Update: update worktree info [skip ci]"
+            git push
+            echo "Worktree info updated and committed"
+          else
+            echo "No changes to commit"
+          fi
+      
       - name: Trigger workflow in hoa-moe
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
