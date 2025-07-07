@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '0 16 * * *'
 
   workflow_dispatch:
 
@@ -48,8 +48,8 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add .hoa/worktree.json
             git commit -m "Update worktree [skip ci]"
-            git push origin HEAD:main
-            echo "Worktree updated and committed to main"
+            git push origin main
+            echo "Worktree updated and committed to main branch"
           else
             echo "No changes to commit"
           fi
