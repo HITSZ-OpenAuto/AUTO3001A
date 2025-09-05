@@ -1,25 +1,16 @@
 # AUTO3001A - 自动控制理论 A
 
-<div align="left">
-<figure>
-  <img alt="考试课" src="https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red" >
-  <img alt="学分 4.5" src="https://img.shields.io/badge/学分-4.5-moccasin">
-  <img alt="学分 3.0（23级大二春）" src="https://img.shields.io/badge/学分 （23级大二春）-3.0-moccasin">
-  <img alt="学分 2.0（23级大三秋）" src="https://img.shields.io/badge/学分 （23级大三秋）-2.0-moccasin">
-</figure>
-</div>
+![考试课](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)
+![学分 4.5](https://img.shields.io/badge/学分-4.5-moccasin)
+![学分 3.0（23级大二春）](https://img.shields.io/badge/学分%20（23级大二春）-3.0-moccasin)
+![学分 2.0（23级大三秋）](https://img.shields.io/badge/学分%20（23级大三秋）-2.0-moccasin)
 
-
-<div align="left">
-<figure>
-  <img alt="成绩构成" src="https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-13%25-wheat">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E8%AF%BE%E5%A0%82%E8%A1%A8%E7%8E%B0-5%25-wheat">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E4%B8%8A%E6%9C%BA%E5%AE%9E%E9%AA%8C-4%25-wheat">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E7%A1%AC%E4%BB%B6%E5%AE%9E%E9%AA%8C-8%25-wheat">
-  <img alt="Static Badge" src="https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat">
-</figure>
-</div>
+![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
+![作业 13%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-13%25-wheat)
+![课堂表现 5%](https://img.shields.io/badge/%E8%AF%BE%E5%A0%82%E8%A1%A8%E7%8E%B0-5%25-wheat)
+![上机实验 4%](https://img.shields.io/badge/%E4%B8%8A%E6%9C%BA%E5%AE%9E%E9%AA%8C-4%25-wheat)
+![硬件实验 8%](https://img.shields.io/badge/%E7%A1%AC%E4%BB%B6%E5%AE%9E%E9%AA%8C-8%25-wheat)
+![期末考试 70%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-70%25-wheat)
 
 *23 级考虑到电气同学对自动控制理论的需求，在大二春季学期开设《系统与控制》作为电气的自动控制理论课程。自动化的学生在大三秋季学期补完原《自动控制理论A》剩余内容。本页面资料全部对应4.5学分的原课程，查找《系统与控制》资料的同学可根据当前授课及作业内容自行选用本仓库资料。*
 
