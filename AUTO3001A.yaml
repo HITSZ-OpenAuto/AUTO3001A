@@ -1,0 +1,46 @@
+SimilarID: []
+CourseProperty:
+- Major:
+  - Year: '2021_2023'
+    Name:
+    - 2019级:自动化
+    - 2020级:自动化
+    - 2021级:自动化
+    Degree: 本
+  GradeSemesters:
+  - Grade: 大三
+    Semester: 秋
+  CourseType: 必修
+  CourseID: AUTO3001A
+  CourseName: 自动控制理论A
+  Credit: 4.5
+  GPAInfluence: 考试
+  CourseHour: '76'
+  GroupCourse:
+    Link: ''
+    Desc: ''
+    Name: ''
+    Ids:
+    - ''
+    - ''
+    - ''
+  GradeComposition:
+  - Name: 作业
+    Percentage: 13
+  - Name: 课堂表现
+    Percentage: 5
+  - Name: 上机实验
+    Percentage: 4
+  - Name: 硬件实验
+    Percentage: 8
+  - Name: 期末考试
+    Percentage: 70
+  CourseHourComposition:
+  - Name: 授课
+    Hour: 64
+  - Name: 实验
+    Hour: 8
+  - Name: 上机
+    Hour: 4
+ID: AUTO3001A
+Name: 自动控制理论A
