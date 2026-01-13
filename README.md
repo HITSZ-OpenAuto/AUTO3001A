@@ -66,7 +66,7 @@ G.Franklin, J.Powell, A.Emami-Naeini. Pearson. 2019.
 
 张颖老师上课思维较为连贯，但是上课速度缓慢，PPT 有大量的例题没有给时间完成。
 
-> 文 / [Gaster](https://github.com/WDGaster), 2025.6
+> 文 / [Gaster](https://github.com/WDGaster703), 2025.6
 
 ## 关于授课内容
 > 以下为 4.5 学分的授课内容。
@@ -163,7 +163,7 @@ G.Franklin, J.Powell, A.Emami-Naeini. Pearson. 2019.
 
 看来 24 秋的期末像是一次意外，25 春《系统与控制》的考试（线性连续部分）又回归了往年的难度，难度低于考研题，由于知识点减少，考察的也比较细。
 
-> 文 / [Gaster](https://github.com/WDGaster), 2025.6
+> 文 / [Gaster](https://github.com/WDGaster703), 2025.6
 
 ## 学习建议
 
