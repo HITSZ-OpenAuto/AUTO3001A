@@ -1,0 +1,218 @@
+name: Format and Update README
+
+on:
+  pull_request:
+    paths:
+      - 'readme.toml'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.head_ref }}
+          
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Format readme.toml
+        run: |
+          # 下载格式化脚本
+          python3 << 'EOF'
+          import tomli
+          import re
+          from pathlib import Path
+          
+          # 读取readme.toml
+          toml_file = Path("readme.toml")
+          with open(toml_file, 'rb') as f:
+              data = tomli.load(f)
+          
+          # 格式化并保存
+          formatted = format_toml_content(data)
+          with open(toml_file, 'w', encoding='utf-8') as f:
+              f.write(formatted)
+          
+          print("✓ readme.toml 已格式化")
+          
+          def format_toml_content(data):
+              """格式化TOML内容为标准格式"""
+              lines = []
+              
+              # 标题和基本字段顺序
+              field_order = ['course_code', 'repo_type', 'category', 'description']
+              
+              # 写入基本字段
+              for field in field_order:
+                  if field in data:
+                      value = data[field]
+                      if isinstance(value, str):
+                          # 多行字符串使用三引号
+                          if '\n' in value or len(value) > 50:
+                              escaped = value.replace('\', '\\')
+                              lines.append(f'{field} = """\n{escaped}\n"""')
+                          else:
+                              escaped = value.replace('\', '\\').replace('"', '\\"')
+                              lines.append(f'{field} = "{escaped}"')
+              
+              # 处理数组表 (lecturers, textbooks等)
+              table_sections = [
+                  'lecturers', 'textbooks', 'online_resources', 'course',
+                  'homework', 'exam', 'lab', 'advice', 'schedule', 'related_links', 'misc'
+              ]
+              
+              for section in table_sections:
+                  if section in data and data[section]:
+                      items = data[section]
+                      if not isinstance(items, list):
+                          items = [items]
+                      for item in items:
+                          if isinstance(item, dict):
+                              lines.append(f'\n[[{section}]]')
+                              for k, v in item.items():
+                                  if isinstance(v, str):
+                                      escaped = v.replace('\', '\\').replace('"', '\\"')
+                                      lines.append(f'{k} = "{escaped}"')
+                                  elif isinstance(v, list):
+                                      lines.append(f'{k} = [')
+                                      for subitem in v:
+                                          if isinstance(subitem, dict):
+                                              lines.append('  {')
+                                              for sk, sv in subitem.items():
+                                                  if isinstance(sv, str):
+                                                      escaped = sv.replace('\', '\\').replace('"', '\\"')
+                                                      lines.append(f'    {sk} = "{escaped}"')
+                                              lines.append('  }')
+                                      lines.append(']')
+              
+              return '\n'.join(lines)
+          
+          EOF
+          
+      - name: Update README.md
+        run: |
+          # 下载转换脚本并生成README
+          python3 << 'EOF'
+          import tomli
+          from pathlib import Path
+          
+          # 读取readme.toml
+          with open('readme.toml', 'rb') as f:
+              data = tomli.load(f)
+          
+          # 生成markdown内容
+          markdown = generate_markdown(data)
+          
+          # 写入README.md
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(markdown)
+          
+          print("✓ README.md 已更新")
+          
+          def generate_markdown(data):
+              """从TOML生成Markdown"""
+              lines = []
+              
+              # 标题
+              if 'course_code' in data:
+                  lines.append(f"# {data['course_code']}")
+                  lines.append("")
+              
+              # 描述
+              if 'description' in data and data['description']:
+                  desc = data['description']
+                  if isinstance(desc, str):
+                      lines.append(desc)
+                      lines.append("")
+              
+              # 讲师部分
+              if 'lecturers' in data and data['lecturers']:
+                  lines.append("## 讲师")
+                  lines.append("")
+                  lecturers = data['lecturers']
+                  if not isinstance(lecturers, list):
+                      lecturers = [lecturers]
+                  for lecturer in lecturers:
+                      if isinstance(lecturer, dict):
+                          if 'name' in lecturer:
+                              lines.append(f"### {lecturer['name']}")
+                              lines.append("")
+                          if 'reviews' in lecturer and lecturer['reviews']:
+                              for review in lecturer['reviews']:
+                                  if isinstance(review, dict) and 'content' in review:
+                                      lines.append(review['content'])
+                                      lines.append("")
+                                  if 'author' in review:
+                                      author_str = format_author(review['author'])
+                                      if author_str:
+                                          lines.append(f"> {author_str}")
+                                          lines.append("")
+              
+              # 其他部分
+              sections = {
+                  'textbooks': '教材',
+                  'online_resources': '线上资源',
+                  'course': '课程',
+                  'homework': '作业',
+                  'exam': '考试',
+                  'lab': '实验',
+                  'advice': '建议',
+                  'schedule': '日程',
+                  'related_links': '相关链接'
+              }
+              
+              for key, title in sections.items():
+                  if key in data and data[key]:
+                      lines.append(f"## {title}")
+                      lines.append("")
+                      items = data[key]
+                      if not isinstance(items, list):
+                          items = [items]
+                      for item in items:
+                          if isinstance(item, dict):
+                              if 'content' in item:
+                                  lines.append(item['content'])
+                                  lines.append("")
+                              if 'author' in item:
+                                  author_str = format_author(item['author'])
+                                  if author_str:
+                                      lines.append(f"> {author_str}")
+                                      lines.append("")
+              
+              return '\n'.join(lines)
+          
+          def format_author(author):
+              """格式化作者信息"""
+              if not isinstance(author, dict):
+                  return ""
+              name = author.get('name', '')
+              link = author.get('link', '')
+              year = author.get('year', '')
+              
+              if link:
+                  author_str = f"文 / [{name}]({link})"
+              else:
+                  author_str = f"文 / {name}"
+              
+              if year:
+                  author_str += f", {year}"
+              
+              return author_str
+          
+          EOF
+          
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add readme.toml README.md
+          git commit -m "ci: Format readme.toml and update README.md" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
