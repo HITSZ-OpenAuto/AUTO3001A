@@ -24,9 +24,11 @@ content = """
 上课以吹水为主，对于想快速掌握本课程知识而不想浪费时间的同学，不建议听课。
 思维发散，但是例题有给比较充分时间上课完成，且对例题比较好的讲解。
 """
-author = [{ name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" },
-{ name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2025-02" },
-{ name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" }]
+author = [
+  { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" },
+  { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2025-02" },
+  { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" },
+]
 
 
 [[lecturers]]
@@ -39,8 +41,10 @@ content = """
 几乎每节课都会考勤点名，一次点名一个班。
 上课思维较为连贯，但是PPT有大量的例题没有给时间完成。
 """
-author = [{ name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" },
-{ name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" }]
+author = [
+  { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" },
+  { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" },
+]
 
 [[sections]]
 title = "教材和参考书"
@@ -148,8 +152,10 @@ content = """
 - 张宏伟老师的作业题目有一部分是原创的，颇具挑战性
 - 张颖老师的作业基本来自教材课后题，难度适中
 """
-author = [{ name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" },
-{ name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" }]
+author = [
+  { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" },
+  { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" },
+]
 
 [[sections]]
 title = "关于考试"
@@ -167,9 +173,11 @@ content = """
 25年考试情况：
 看来 24 秋的期末像是一次意外，25 春《系统与控制》的考试（线性连续部分）又回归了往年的难度，难度低于考研题，由于知识点减少，考察的也比较细。
 """
-author = [{ name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" },
-{ name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2025-02" },
-{ name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" }]
+author = [
+  { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "2025-01" },
+  { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "2025-02" },
+  { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" },
+]
 
 [[sections]]
 title = "学习建议"
