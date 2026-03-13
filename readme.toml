@@ -1,7 +1,6 @@
 course_name = "自动控制理论 A"
-repo_type = "normal"
 course_code = "AUTO3001A"
-
+repo_type = "normal"
 description = """
 *23 级考虑到电气同学对自动控制理论的需求，在大二春季学期开设《系统与控制》作为电气的自动控制理论课程。自动化的学生在大三秋季学期补完原《自动控制理论A》剩余内容。本页面资料全部对应4.5学分的原课程，查找《系统与控制》资料的同学可根据当前授课及作业内容自行选用本仓库资料。*
 
@@ -13,10 +12,12 @@ description = """
 |**新**自动控制理论A|23 级自动化|大三秋|2.0|线性离散系统建模与时域分析、状态空间表达式建模与时域分析、Lyapunov稳定性分析|
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "张宏伟"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 负责课程的前半部分。
 上课和聊天一样，会将知识引申到课外的领域中。
@@ -30,11 +31,10 @@ author = [
   { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" },
 ]
 
-
-[[lecturers]]
+[[lecturers.items]]
 name = "张颖"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 负责课程的后半部分。
 教学节奏较慢，有一种回到中学课堂的感觉。
