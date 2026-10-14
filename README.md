@@ -1,13 +1,5 @@
 # AUTO3001A - 自动控制理论 A
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业13%](https://img.shields.io/badge/作业-13%25-wheat)
-![课堂表现5%](https://img.shields.io/badge/课堂表现-5%25-wheat)
-![上机实验4%](https://img.shields.io/badge/上机实验-4%25-wheat)
-![硬件实验8%](https://img.shields.io/badge/硬件实验-8%25-wheat)
-![期末考试70%](https://img.shields.io/badge/期末考试-70%25-wheat)
 
 *23 级考虑到电气同学对自动控制理论的需求，在大二春季学期开设《系统与控制》作为电气的自动控制理论课程。自动化的学生在大三秋季学期补完原《自动控制理论A》剩余内容。本页面资料全部对应4.5学分的原课程，查找《系统与控制》资料的同学可根据当前授课及作业内容自行选用本仓库资料。*
 
