@@ -429,6 +429,66 @@
     "time": 1752722349,
     "hash": "f1eba0b5a1055a543e2c4ee7e1c9bc727cad78d8"
   },
+  "assignments/2025秋（自动控制理论A）/BCC/作业1.pdf": {
+    "size": 8447971,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/BCC/作业2.pdf": {
+    "size": 6865999,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/BCC/作业3.pdf": {
+    "size": 7113163,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/BCC/作业4.pdf": {
+    "size": 4233465,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/BCC/作业5.pdf": {
+    "size": 14862007,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/BCC/作业6.pdf": {
+    "size": 8134912,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/题目/作业1.pdf": {
+    "size": 508692,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/题目/作业2.pdf": {
+    "size": 105783,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/题目/作业3.pdf": {
+    "size": 206302,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/题目/作业4.pdf": {
+    "size": 179302,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/题目/作业5.pdf": {
+    "size": 1196810,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "assignments/2025秋（自动控制理论A）/题目/作业6.pdf": {
+    "size": 258028,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
   "exams/.gitkeep": {
     "size": 0,
     "time": 1737539897,
@@ -508,6 +568,11 @@
     "size": 1344306,
     "time": 1750817176,
     "hash": "ce18cc040e27ba2f715c6c592208104734cca96e"
+  },
+  "exams/深圳/2025/2025秋_自动控制理论A期末回忆_BCC.pdf": {
+    "size": 1166623,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
   },
   "exams/深圳/2025春系统与控制期末试题（回忆版）.pdf": {
     "size": 1245288,
@@ -773,6 +838,246 @@
     "size": 1670550,
     "time": 1751079913,
     "hash": "f845cc75576a766a710c9ced59d52922f91888e8"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/A1_1.slx": {
+    "size": 24310,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/A1_2.slx": {
+    "size": 24321,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/A1_3.slx": {
+    "size": 24425,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/A2_6_1step.slx": {
+    "size": 21140,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/A2_6_2ramp.slx": {
+    "size": 20954,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/A2_6_3a.slx": {
+    "size": 20850,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/SecondOrderImpulse.m": {
+    "size": 129,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/SecondOrderStep.m": {
+    "size": 123,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/exp1.slx": {
+    "size": 24242,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/exp1_2.slx": {
+    "size": 21416,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/exp2.slx": {
+    "size": 22523,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/exp3.slx": {
+    "size": 22481,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/exp_pc_1/exp4.slx": {
+    "size": 23083,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机1/报告.pdf": {
+    "size": 1060024,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/报告.pdf": {
+    "size": 2194155,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/根轨迹分析MATLAB/contorl_lab2_rlocus_eg1.m": {
+    "size": 111,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/根轨迹分析MATLAB/exp2_rlocus1_1_G.m": {
+    "size": 112,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/根轨迹分析MATLAB/exp2_rlocus1_2_G1.m": {
+    "size": 88,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/根轨迹分析MATLAB/exp2_rlocus1_3_G2.m": {
+    "size": 91,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/根轨迹分析MATLAB/exp2_rlocus2_1_G.m": {
+    "size": 186,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/根轨迹分析MATLAB/exp2_rlocus2_1_G_test.m": {
+    "size": 134,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/根轨迹分析MATLAB/exp2_rlocus3_1_G3.m": {
+    "size": 85,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/根轨迹分析MATLAB/plot_step_with_overshoot.m": {
+    "size": 1097,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/根轨迹分析MATLAB/rootzero.m": {
+    "size": 101,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/Fre3_Nyquist.m": {
+    "size": 99,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/Fre_2_1.m": {
+    "size": 189,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/Fre_2_2.m": {
+    "size": 187,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/Fre_3_Bode.m": {
+    "size": 101,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/Fre_4_Bode.m": {
+    "size": 94,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/Fre_4_Nyquist.m": {
+    "size": 100,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/Fre_9_Bode.m": {
+    "size": 105,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/Fre_9_Nyquist.m": {
+    "size": 111,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/IntegralAndFirstBode.m": {
+    "size": 107,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/IntegralAndFirstNyquist.m": {
+    "size": 113,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/SecondOrderBode.m": {
+    "size": 114,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/SecondOrderNyquist.m": {
+    "size": 120,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/example/secondnyquist.m": {
+    "size": 120,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/example/testbode.m": {
+    "size": 117,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/example/testbode1.m": {
+    "size": 120,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/example/testbodefre.m": {
+    "size": 125,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/example/testbodewm.m": {
+    "size": 125,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/example/testnyquist.m": {
+    "size": 110,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/example/testnyquistfre.m": {
+    "size": 124,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/上机实验/上机2/频率特性MATLAB/example/testnyquistwm.m": {
+    "size": 122,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/实物实验/实验1.pdf": {
+    "size": 1338154,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/实物实验/实验2.pdf": {
+    "size": 1641380,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/实物实验/实验3.pdf": {
+    "size": 2091670,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
+  },
+  "labs/2025春（系统与控制）/BCC/实物实验/实验4.pdf": {
+    "size": 1011104,
+    "time": 1795393345,
+    "hash": "2c814e6fba76bdf3554ea9305ea0c865672c1d3f"
   },
   "notes/.gitkeep": {
     "size": 0,
